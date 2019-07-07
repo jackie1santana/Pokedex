@@ -1,3 +1,3 @@
 # Pokemon Pokedex Card App
 
-Technologies Used: React
+Technologies Used: Simple React App w/ Props 
